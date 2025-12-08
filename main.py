@@ -27,11 +27,11 @@ def is_hand_open(hand_landmarks):
 
 # Upload das imagens
 IMAGE_FILENAMES = [
-    'numetal.jpg',  
-    'calma.jpg',  
-    'avril.jpg',  
-    'serj.jpg',  
-    'davi.jpg'   
+    'assets/numetal.jpg',  
+    'assets/calma.jpg',  
+    'assets/avril.jpg',  
+    'assets/serj.jpg',  
+    'assets/davi.jpg'   
 ]
 
 
